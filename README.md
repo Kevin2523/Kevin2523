@@ -105,12 +105,15 @@ Gestión de campañas de Google Ads para llevar tráfico calificado a páginas w
 
 <div align="center">
 
-![Kevin's GitHub stats](https://github-readme-stats.vercel.app/api?username=Kevin2523&show_icons=true&theme=tokyonight&hide_border=true)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Kevin2523&layout=compact&theme=tokyonight&hide_border=true)
+![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=Kevin2523&theme=tokyonight&hide_border=true)
 
 </div>
 
+<div align="center">
+
+![GitHub Streak](https://streak-stats.demolab.com?user=Kevin2523&theme=tokyonight&hide_border=true)
+
+</div>
 ---
 
 ## 🎯 Actualmente...
